@@ -1,0 +1,27 @@
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('index', 'index')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(8): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run(1)
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('index', 'index')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(13): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('index', 'index')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(13): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
