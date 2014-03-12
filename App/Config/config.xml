@@ -3,4 +3,10 @@
 	<system>
 		<logFile>/Log/app.log</logFile>
 	</system>
+	<application>
+		<DBHost>localhost</DBHost>
+		<DBUserName>root</DBUserName>
+		<DBPassWord>dongyiweidi1</DBPassWord>
+		<DBName>Student</DBName>
+	</application>
 </config>

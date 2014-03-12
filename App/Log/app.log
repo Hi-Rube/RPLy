@@ -25,3 +25,83 @@ Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_acti
 #4 {main}
 
 
+Action执行错误--没有相应的可执行方法(public ACT NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dong', 'asddd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
+Action执行错误--没有找到相应的控制文件(CON NOT FOUND)
+Detail:#0 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/com/controll_action.php(59): controll_Action_Exec('dondg', 'asdd')
+#1 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Controll/index.php(25): controll_Action(Array, 'con', 'act')
+#2 /home/rube/Rube/workplace/PHP/Rube/RPLy/lib/Application/index.php(18): ControllRun->Run()
+#3 /home/rube/Rube/workplace/PHP/Rube/Public/index.php(7): applicationRun->Run()
+#4 {main}
+
+
